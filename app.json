@@ -1,9 +1,9 @@
 {
-    "name": "CompressorBot",
+    "name": "CompressBotza",
     "description": "A Normal Telegram Bot Which can Compress/encode/ Generate Samples of videos.",
-    "logo": "https://telegra.ph/file/75ee20ec8d8c8bba84f02.jpg",
+    "logo": "https://telegra.ph/file/b98d5cd0dc811ea8a28bb.jpg",
     "keywords": ["Telegram","python", "Video","Compressor","Encoder"],
-    "repository": "https://github.com/1Danish-00/CompressorBot",
+    "repository": "https://github.com/gamy-gamin/CompressorBot",
     "success_url": "https://t.me/BotzHub",
     "stack": "container",
     "env": {
